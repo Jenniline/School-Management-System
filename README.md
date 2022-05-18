@@ -1,4 +1,4 @@
-# Student-Management-System
+# School-Management-System
 Students Can;
 1.Register into the system by creating a student account
   *Student Registration is done using all neccessary and relevant student information
